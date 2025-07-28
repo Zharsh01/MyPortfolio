@@ -7,10 +7,10 @@ export function Skills() {
     {
       title: "Frontend Technologies",
       skills: [
-        { name: "HTML5 & CSS3", level: 85 },
-        { name: "JavaScript", level: 65 },
-        { name: "React.js", level: 70 },
-        { name: "jQuery", level: 70 },
+        { name: "HTML5 & CSS3", level: 95 },
+        { name: "JavaScript", level: 80 },
+        { name: "React.js", level: 85 },
+        { name: "jQuery", level: 80 },
       ],
     },
     {
