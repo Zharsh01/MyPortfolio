@@ -53,6 +53,21 @@ export function Skills() {
     "Accessibility (WCAG)",
     "Figma to Code",
     "PSD to HTML",
+    "Chat GPT",
+    "Code Review",
+    "Builder.io",
+    "Vercel",
+    "V0",
+    "Next.js",
+    "Tailwind CSS",
+    "TypeScript",
+    "React Router",
+    "Framer Motion",
+    "React Query",
+    "Styled Components",
+    "Material UI",
+    "Ant Design",
+    "Chakra UI",
   ];
 
   return (
