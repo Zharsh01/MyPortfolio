@@ -17,7 +17,7 @@ export function Hero() {
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-4xl pt-8 sm:text-6xl lg:text-7xl font-bold mb-6">
+          <h1 className="text-4xl pt-12 sm:text-6xl lg:text-7xl font-bold mb-6">
             Hi, I&apos;m <span className="text-primary">Harsh Darji</span>
           </h1>
 
